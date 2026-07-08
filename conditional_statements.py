@@ -9,6 +9,20 @@ if num > 0:
 else:
     print(num, "is a negative number.")
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #------------------------------- Task 2 -------------------------------
 number = int(input("Enter Number to check"))
 print("Number to be checked :", number)
@@ -18,7 +32,15 @@ if number % 2 == 0:
 
 else:
   print("This is an odd number")
-  #------------------------------- Task 3 -------------------------------
+  
+#------------------------------- Task 3 -------------------------------
+  
+  
+  
+
+
+  
+  
   
   i = int(input("enter a number : "))
 if (i < 15):
