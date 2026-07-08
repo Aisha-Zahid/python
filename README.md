@@ -1,3 +1,3 @@
-# Python Practice
+# Python 
 
-This repository contains Python practice scripts and small exercises.
+This repository contains Python exercises and capstone projects
