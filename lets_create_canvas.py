@@ -1,6 +1,6 @@
-import turtle     # library ha 
+import turtle    
 
-turtle.Screen().bgcolor("Orange")
+turtle.Screen().bgcolor("Pink")
 
 sc = turtle.Screen()
 sc.setup(400, 300)
